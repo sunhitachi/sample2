@@ -1,3 +1,7 @@
+## Images
+
+![Minion](https://octodex.github.com/images/minion.png)
+
 ---
 
 # h1 Heading 8-)
